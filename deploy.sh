@@ -9,7 +9,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:Ger1211/v3-scroll.git main:main
+git push -f git@github.com:Ger1211/v3-scroll.git master:gh-pages
 
 
 cd -
