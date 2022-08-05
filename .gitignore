@@ -1,2 +1,5 @@
 node_modules
-.vuepress
+docs/.vuepress/dist
+docs/.vuepress/.temp/internal/
+docs/.vuepress/.temp/pages/
+docs/.vuepress/.temp/styles/
