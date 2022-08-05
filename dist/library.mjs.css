@@ -1,0 +1,14 @@
+
+body::-webkit-scrollbar {
+  width: var(--scrollbar-width);
+}
+body::-webkit-scrollbar-track {
+  background: var(--track-color);
+}
+body::-webkit-scrollbar-thumb {
+  background: var(--thumb-color);
+  border-radius: 20px;
+}
+body::-webkit-scrollbar-thumb:hover {
+  background: var(--thumb-hover-color);
+}
