@@ -3,3 +3,5 @@ docs/.vuepress/dist
 docs/.vuepress/.temp/internal/
 docs/.vuepress/.temp/pages/
 docs/.vuepress/.temp/styles/
+docs/.vuepress/.temp/vite-root/
+docs/.vuepress/.cache/
