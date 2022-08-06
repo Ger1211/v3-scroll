@@ -4,6 +4,7 @@
   "description": "Component scroll created with Vue 3",
   "main": "dist/library.js",
   "module": "dist/library.js",
+  "homepage": "https://ger1211.github.io/v3-scroll/",
   "files": [
     "dist/*"
   ],
@@ -15,7 +16,15 @@
   "peerDependencies": {
     "vue": "^3.2.21"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ger1211/v3-scroll"
+  },
+  "keywords": [
+    "vue",
+    "scroll",
+    "scrolling"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
